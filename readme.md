@@ -13,7 +13,7 @@
 
 在原有内容的基础上进行了修改：
 
-- 更改了校徽图标（参考 https://www.urongda.com/logos and https://xcb.buaa.edu.cn/info/1091/1481.htm）
+- 更改了校徽图标（参考 https://www.urongda.com/logos and https://xcb.buaa.edu.cn/info/1091/1481.htm ）
 - 调整了装饰图案的色彩风格
 
 ## 使用方法
